@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+# personal data, never commit
+Garmin.md
+garmin-cache.json
+garmin-workouts-state.json
+.env

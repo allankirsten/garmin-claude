@@ -1,0 +1,43 @@
+[
+  {
+    "key": "week-1-intervals",
+    "revision": 1,
+    "date": "2026-11-03",
+    "name": "Intervals 6x400",
+    "description": "Week 1",
+    "steps": [
+      {"type": "warmup", "duration": "10min", "note": "easy, conversational"},
+      {"type": "interval", "distance": "0.4km", "pace": "4:50-5:10"},
+      {"type": "recovery", "duration": "2min", "note": "walk or jog"},
+      {"type": "interval", "distance": "0.4km", "pace": "4:50-5:10"},
+      {"type": "recovery", "duration": "2min"},
+      {"type": "interval", "distance": "0.4km", "pace": "4:50-5:10"},
+      {"type": "recovery", "duration": "2min"},
+      {"type": "interval", "distance": "0.4km", "pace": "4:50-5:10"},
+      {"type": "recovery", "duration": "2min"},
+      {"type": "interval", "distance": "0.4km", "pace": "4:50-5:10"},
+      {"type": "recovery", "duration": "2min"},
+      {"type": "interval", "distance": "0.4km", "pace": "4:50-5:10"},
+      {"type": "cooldown", "duration": "10min"}
+    ]
+  },
+  {
+    "key": "week-1-easy",
+    "revision": 1,
+    "date": "2026-11-05",
+    "name": "Easy run 5km",
+    "steps": [
+      {"type": "interval", "distance": "5km", "hr": "120-150", "note": "keep it easy"}
+    ]
+  },
+  {
+    "key": "week-1-long",
+    "revision": 1,
+    "date": "2026-11-08",
+    "name": "Long run 12km",
+    "steps": [
+      {"type": "interval", "distance": "12km", "hr": "120-150"},
+      {"type": "open", "note": "optional extra, press lap to finish"}
+    ]
+  }
+]
