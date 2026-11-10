@@ -78,4 +78,4 @@ Then just talk: "how was my recovery this week?", "move Thursday's intervals to 
 
 ## License
 
-MIT
+MIT. Made by [Allan Kirsten](https://allankirsten.com), head of product design, as part of his Lab.
